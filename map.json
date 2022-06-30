@@ -1,0 +1,16 @@
+{
+    "peaks": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"],
+      "paths": [
+      {"from": "A", "to": "B", "weight": 85},
+      {"from": "A", "to": "C", "weight": 217},
+      {"from": "A", "to": "E", "weight": 173},
+      {"from": "B", "to": "F", "weight": 80},
+      {"from": "C", "to": "G", "weight": 186},
+      {"from": "C", "to": "H", "weight": 103},
+      {"from": "E", "to": "J", "weight": 502},
+      {"from": "F", "to": "I", "weight": 250},
+      {"from": "H", "to": "D", "weight": 183},
+      {"from": "H", "to": "J", "weight": 167},
+      {"from": "I", "to": "J", "weight": 84}
+    ]
+  }
